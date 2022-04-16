@@ -1,0 +1,24 @@
+
+.navbar {
+    background-color: #336b63;
+    
+}
+
+.container-home {
+    background-color: white;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container-vidas-transformadas {
+    background-color: #336b63;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
