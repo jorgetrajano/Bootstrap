@@ -1,3 +1,3 @@
 # Bootstrap
 
-Utilizando o Bootstrap
+Utilizando o Bootstrap para desenvolvimento web.
